@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer base {
+  html,
+  body {
+    font-family: 'Noto Sans KR', system-ui, -apple-system, sans-serif;
+    background-color: #090d12;
+    color: #f8fafc;
+    overscroll-behavior: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  button {
+    touch-action: manipulation;
+  }
+}
+
+.font-score {
+  font-family: 'Barlow Condensed', 'Noto Sans KR', sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+

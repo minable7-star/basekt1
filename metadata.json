@@ -1,0 +1,6 @@
+{
+  "name": "배드민턴 점수판",
+  "description": "체육관에서 크게 보고 바로 쓰는 21점제·3세트 2선승 스마트폰 배드민턴 점수판",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
